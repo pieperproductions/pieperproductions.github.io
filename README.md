@@ -6,8 +6,11 @@ First, thank you for taking interest in my project here. This work-in-progress p
 
 Nonetheless, I hope you join me in the journey!
 
-Steps:
+Accessing Pridwen has never been easier! Simply click the link under the About section!
 
+But, if you're feeling fancy, install Pridwen's website locally following the steps below!
+
+Steps:
 (Optional) Create a new folder on your desktop titled Pridwen.
 
 Download all files available currently on the Pridwen repository.
